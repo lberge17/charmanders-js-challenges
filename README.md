@@ -10,4 +10,4 @@
 - create a form to create a blog using just JS
 - add inputs for title, content, hashtags, username/author 
 - append to DOM
-- on submit this form should add a new blog to to page
+- on submit this form should add a new blog to the page
